@@ -21,12 +21,12 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV5.png",CCTV5
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002935/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV5.png",CCTV5
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV5+.png",CCTV5+
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV5+.png",CCTV5+
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002945/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV6.png",CCTV6
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV6.png",CCTV6
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV6.png",CCTV6
@@ -67,6 +67,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV16.png",CCTV16
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV16.png",CCTV16
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV16.png",CCTV16
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV17.png",CCTV17
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视标清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV17.png",CCTV-17
@@ -85,8 +89,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001029/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001060/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/黑龙江卫视.png",黑龙江卫视 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/黑龙江卫视.png",黑龙江卫视 高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/广东卫视.png",广东卫视 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/江苏卫视.png",江苏卫视 高清
@@ -147,8 +149,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001052/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001053/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/山东卫视.png",山东卫视 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/山东卫视.png",山东卫视 高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/广西卫视.png",广西卫视 标清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/海南卫视.png",海南卫视 标清
@@ -179,13 +179,13 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001307/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/三沙卫视.png",三沙卫视 标清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002801/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="地方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/农林卫视.png",农林卫视 标清
+#EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/农林卫视.png",农林卫视 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/康巴卫视.png",康巴卫视 标清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西卫视.png" group-title="地方卫视",陕西卫视 高清
+#EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西卫视.png",陕西卫视 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002965/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="地方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西卫视.png",陕西卫视 标清
+#EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西卫视.png",陕西卫视 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="专题频道" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CHC动作电影.png",CHC动作电影 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -193,8 +193,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="专题频道" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CHC家庭影院.png",CHC家庭影院 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="地方卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/精彩综艺.png",精彩综艺 高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西新闻资讯.png",陕西新闻资讯 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西新闻资讯.png",陕西新闻资讯 高清
