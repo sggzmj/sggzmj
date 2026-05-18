@@ -51,7 +51,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001012/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV11.png",CCTV11
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央视标清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV12.png",CCTV-12
+#EXTINF:-1 group-title="央视标清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV12.png",CCTV12
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001013/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV12.png",CCTV12
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -449,7 +449,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/央视台球.png",CCTV央视台球
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/高尔夫网球.png",CCTV-高尔夫网球
+#EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/高尔夫网球.png",CCTV高尔夫网球
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/第一剧场.png",CCTV第一剧场
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
