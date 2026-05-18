@@ -419,7 +419,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002895/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002915/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方台",子长电视台 
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002916/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="教育频道" tvg-logo="https://github.com/mursor1985/epg/blob/main/logo/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png",中国教育一套
+#EXTINF:-1 group-title="教育频道" tvg-logo="https://github.com/mursor1985/epg/blob/main/logo/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png",中国教育1台
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="教育频道" tvg-logo="https://github.com/mursor1985/epg/blob/main/logo/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png",中国教育2台
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
