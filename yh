@@ -1,0 +1,100 @@
+#EXTM3U x-tvg-url=https://itv.5iclub.dpdns.org/epg.xml,https://epg.112114.xyz/pp.xml
+#=============央视高清频道=============
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV1.png",CCTV1综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV2.png",CCTV2财经
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV3.png",CCTV3综艺
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV4.png",CCTV4中文国际
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV5.png",CCTV5体育
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV5+.png",CCTV5+赛事
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV6.png",CCTV6电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV7.png",CCTV7国防军事
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV8.png",CCTV8电视剧
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV9.png",CCTV9纪录
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV10.png",CCTV10科教
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV11.png",CCTV11戏曲
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV12.png",CCTV12社会与法
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV13.png",CCTV13新闻
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV14.png",CCTV14少儿
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV15.png",CCTV15音乐
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV16.png",CCTV16奥运
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV17.png",CCTV17农业
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#=============热门卫视高清=============
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/北京卫视.png",北京卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/浙江卫视.png",浙江卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/湖南卫视.png",湖南卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/东方卫视.png",东方卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/江苏卫视.png",江苏卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/广东卫视.png",广东卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/深圳卫视.png",深圳卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/安徽卫视.png",安徽卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/山东卫视.png",山东卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/湖北卫视.png",湖北卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/重庆卫视.png",重庆卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/辽宁卫视.png",辽宁卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西卫视.png",陕西卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#=============影视付费频道=============
+#EXTINF:-1 group-title="影视频道" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CHC动作电影.png",CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="影视频道" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CHC高清电影.png",CHC高清电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="影视频道" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CHC家庭影院.png",CHC家庭影院
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#=============陕西地方频道=============
+#EXTINF:-1 group-title="陕西本地" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西新闻资讯.png",陕西新闻
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="陕西本地" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/陕西都市青春.png",陕西都市
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="陕西本地",西安新闻综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001720/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="陕西本地",西安都市频道
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#=============少儿&教育频道=============
+#EXTINF:-1 group-title="少儿教育" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/金鹰卡通.png",金鹰卡通
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="少儿教育" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/嘉佳卡通.png",嘉佳卡通
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="少儿教育" tvg-logo="https://github.com/mursor1985/epg/blob/main/logo/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png",中国教育1台
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#=============iHOT特色影院=============
+#EXTINF:-1 group-title="特色影院" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/IHOT爱院线.png",iHOT爱院线
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1 group-title="特色影院" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/IHOT爱喜剧.png",iHOT爱喜剧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 group-title="特色影院" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/IHOT爱科幻.png",iHOT爱科幻
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
