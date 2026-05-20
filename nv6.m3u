@@ -445,7 +445,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/世界地理.png",CCTV世界地理
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/怀旧剧场.png",CCYV怀旧剧场
+#EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/怀旧剧场.png",CCTV怀旧剧场
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/央视台球.png",CCTV央视台球
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
