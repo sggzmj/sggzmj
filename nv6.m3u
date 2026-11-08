@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://raw.githubusercontent.com/litiande03/epg/master/pl.xml.gz,https://testingcf.jsdelivr.net/gh/litiande03/epg@master/pl.xml.gz
+#EXTM3U x-tvg-url=https://testingcf.jsdelivr.net/gh/litiande03/epg@master/pl.xml.gz,https://raw.githubusercontent.com/litiande03/epg/master/pl.xml.gz
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV1.png",CCTV1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视标清" tvg-logo="https://cdn.jsdelivr.net/gh/mursor1985/epg/logo/CCTV1.png",CCTV1
